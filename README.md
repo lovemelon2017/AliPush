@@ -1,7 +1,9 @@
 # AliPush
+
 阿里推送测试
 
 
+#TODO Android普通应用改造系统应用
 
 方式一：JDK1.8
 1.清单文件加 android:sharedUserId="android.uid.system"
